@@ -78,6 +78,7 @@ $scriptItems = @(
     @{ name = 'FormatearDisco.ps1';               label = 'FormatearDisco.ps1';               desc = 'Formatea y particiona discos con menú interactivo' }
     @{ name = 'New-SSHKey.ps1';                   label = 'New-SSHKey.ps1';                   desc = 'Genera un par de llaves SSH y las configura automáticamente' }
     @{ name = 'New-QRCode.ps1';                   label = 'New-QRCode.ps1';                   desc = 'Genera códigos QR (enlaces, WiFi, contacto...) con colores personalizables' }
+    @{ name = 'DividirPDF.ps1';                   label = 'DividirPDF.ps1';                   desc = 'Divide un cartel PDF en hojas A4/A3 imprimibles (usa PyMuPDF)' }
     @{ name = 'verify-checksum.ps1';              label = 'verify-checksum.ps1';              desc = 'Verifica integridad de archivos via MD5/SHA256/SHA512' }
     @{ name = 'tree.ps1';                         label = 'tree.ps1';                         desc = 'Muestra árbol de directorios en consola (alternativa a cmd tree)' }
     @{ name = 'win11_rpd_patch.ps1';              label = 'win11_rpd_patch.ps1';              desc = 'Habilita Escritorio Remoto (RDP) en Windows 11 Home' }
