@@ -74,6 +74,7 @@ schoperena-win-setup/                      destino en el equipo
 │   ├── RenombrarMasivo.ps1
 │   ├── BloquearAdobe.ps1
 │   ├── New-SSHKey.ps1
+│   ├── New-QRCode.ps1
 │   ├── FormatearDisco.ps1
 │   ├── deblotear_TCL10L.ps1
 │   ├── stirling-sch.ps1
@@ -103,6 +104,7 @@ schoperena-win-setup/                      destino en el equipo
 | `RenombrarMasivo.ps1` | Renombrado masivo con criterios múltiples (prefijo, sufijo, fecha, numeración) y opción de revertir |
 | `BloquearAdobe.ps1` | Bloquea Adobe vía archivo hosts para evitar conexiones no deseadas |
 | `New-SSHKey.ps1` | Genera clave SSH (Ed25519 o RSA 4096) para GitHub/GitLab |
+| `New-QRCode.ps1` | Genera códigos QR (enlace, WiFi, vCard, email, SMS, geo…) en PNG/SVG con colores a elección |
 | `FormatearDisco.ps1` | Formatea discos externos (NTFS / exFAT / FAT32) — requiere Admin |
 | `deblotear_TCL10L.ps1` | Elimina bloatware del TCL 10L vía ADB |
 | `stirling-sch.ps1` | Instala Stirling-PDF apuntando al servidor interno |

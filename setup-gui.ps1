@@ -50,6 +50,7 @@ $scriptItems = @(
     @{ name='BloquearAdobe.ps1';              desc='Bloquea Adobe vía archivo hosts' }
     @{ name='FormatearDisco.ps1';             desc='Formatea discos interactivamente — requiere Admin' }
     @{ name='New-SSHKey.ps1';                 desc='Genera llaves SSH Ed25519 / RSA 4096' }
+    @{ name='New-QRCode.ps1';                 desc='Genera códigos QR con colores personalizables' }
     @{ name='verify-checksum.ps1';            desc='Verifica integridad via MD5 / SHA256 / SHA512' }
     @{ name='tree.ps1';                       desc='Árbol de directorios en consola' }
     @{ name='win11_rpd_patch.ps1';            desc='Habilita Escritorio Remoto (RDP) en Windows 11 Home' }
